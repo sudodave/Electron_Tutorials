@@ -1,0 +1,12 @@
+{
+	"name": "BowserWindow",
+	"version": "1.0.0",
+	"main": "main.js",
+	"devDependencies": {},
+	"scripts": {
+		"start": "electron ."
+	},
+	"dependencies": {
+		"electron": "^9.0.3"
+	}
+}
